@@ -155,7 +155,7 @@
 
   .about-image img {
     width: 300px;
-    border-radius: 10px;
+    border-radius: 50%;
     border: 2px solid var(--primary);
   }
 
