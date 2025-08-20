@@ -154,8 +154,8 @@
   }
 
  .about-image img {
-    width:250px; /* Smaller size */
-    height: 250px;
+    width:300px; /* Smaller size */
+    height: 300px;
     border-radius: 50%; /* Circular shape */
     border: 2px solid var(--primary); /* Keep your border */
     object-fit: cover; /* Ensures proper scaling without distortion */
