@@ -155,7 +155,7 @@
 
  .about-image img {
     width: 150px; /* Smaller size */
-    height: 75px;
+    height: 150px;
     border-radius: 50%; /* Circular shape */
     border: 2px solid var(--primary); /* Keep your border */
     object-fit: cover; /* Ensures proper scaling without distortion */
